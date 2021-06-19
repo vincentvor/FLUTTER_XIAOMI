@@ -1,10 +1,16 @@
-# Flutter通过BLE协议收集小米温度计数据
+# ble
 
-## 简介：
+A new Flutter project.
 
-Flutter开发安卓APP，结合BLE低功耗蓝牙协议，收集小米温湿度计的每一次动态更新，并实时上传至服务器，使用PHP+ MySQL作为后端积累数据。
+## Getting Started
 
-利用Apache Echart进行数据展示。
+This project is a starting point for a Flutter application.
 
-利用Excel进行数据分析。
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
